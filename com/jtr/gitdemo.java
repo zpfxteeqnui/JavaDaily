@@ -7,6 +7,8 @@ public class gitdemo {
         System.out.println("git demo 1");
 
         System.out.println("test2");
+
+        System.out.println("test3");
     }
 
 }
